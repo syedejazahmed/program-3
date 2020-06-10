@@ -1,2 +1,2 @@
-# program-3
+# this repo contains some basic structure of website
  
